@@ -1,2 +1,5 @@
 ### BLOG 
-milarako - inedex page
+milarako - inedex page  
+```js
+var samsung = a52s;
+```
