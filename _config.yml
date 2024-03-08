@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+title: false
 
 header {
   display: none;
